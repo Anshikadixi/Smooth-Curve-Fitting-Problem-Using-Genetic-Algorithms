@@ -1,4 +1,4 @@
-# Smooth-Curve-Fitting-Problem-Using-Genetic-Algorithms (Optimized)
+# Optimizing-Smooth-Curve-Fitting-Problem-Using-Genetic-Algorithms
 Genetic Algorithms techniques in solving a searching problem for optimization.
 
 -Before we jump into explaining the details, we need to understand that such a problem could be solved using dynamic programming or any other common algorithm, this is just a simple example of applying genetic algorithms ,the point is, it is useful when the search space becomes explosive as complexity of dynamic programming is O(n^2) .
